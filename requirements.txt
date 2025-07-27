@@ -1,0 +1,4 @@
+# Vercel Python Runtime Requirements
+# Keep this minimal to avoid deployment size limits
+numpy==1.24.3
+scikit-learn==1.3.0
